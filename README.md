@@ -1,1 +1,0 @@
-# cosmic-galaxy-web
